@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JF Cleaner Pro</string>
+    <string name="brand_title">JF CLEANER PRO</string>
+    <string name="action_optimize">Optimize</string>
+    <string name="action_scan_now">Scan device</string>
+    <string name="action_done">Done</string>
+    <string name="action_select_all">Select All</string>
+    <string name="action_clean_cache">CLEAN CACHE</string>
+    <string name="action_clean_storage">CLEAN STORAGE</string>
+    <string name="card_battery">Battery</string>
+    <string name="card_security_scan">Security Scan</string>
+    <string name="card_cleaner">Cleaner</string>
+    <string name="card_game_booster">Game Booster</string>
+    <string name="card_manage_apps">Manage Installed Apps</string>
+    <string name="card_manage_apps_desc">Inspect cache, storage &amp; apps</string>
+    <string name="screen_cleaning_title">Cleaning..</string>
+    <string name="screen_cleaning_done">Optimization complete</string>
+    <string name="screen_deep_clean_title">Deep clean</string>
+    <string name="screen_app_manager_title">Manage Installed Apps</string>
+    <string name="label_cache_files">Cache files</string>
+    <string name="label_memory">Memory</string>
+    <string name="label_packages">Packages</string>
+    <string name="label_obsolete_files">Obsolete files</string>
+    <string name="label_residuals">Residuals</string>
+</resources>

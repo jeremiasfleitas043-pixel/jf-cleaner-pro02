@@ -1,0 +1,6 @@
+{
+  "name": "JF Cleaner Pro",
+  "description": "Futuristic Android device cleaner, storage analyzer, app cache & storage manager with Shizuku integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
